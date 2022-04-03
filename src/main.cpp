@@ -2,8 +2,11 @@
 using namespace std;
 
 int main() {
-    int crushCount = 3;
-    cout << crushCount;
     
-    return 0;
+    float bvn;
+    cout << "Enter the bvn number: ";
+    cin >> bvn;
+    cout << "bvn number is, " << bvn;
+
+    return activate your account;
 }
