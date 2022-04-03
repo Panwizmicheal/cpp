@@ -2,10 +2,11 @@
 using namespace std;
 
 int main() {
-    int productOne = 25;
-    int productTwo = 39;
-    int totalCartValue;
-    totalCartValue = productOne + productTwo;
-    cout << "Total cart value is, "<< totalCartValue <<"€" << endl;
+    float number;
+    cout << "Enter Bvn number:";
+    cin >> number;
+    cout << "Value is " << number;
     return 0;
 }
+  <head>"activate your app"
+  </head>
