@@ -2,11 +2,11 @@
 using namespace std;
 
 int main() {
-    float number;
-    cout << "Enter Bvn number:";
-    cin >> number;
-    cout << "Value is " << number;
+    int num = 1; 
+    while (num < 6) {
+        cout << num << endl;
+        num++;
+    }
+    
     return 0;
 }
-  <head>"activate your app"
-  </head>
