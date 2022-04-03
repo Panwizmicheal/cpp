@@ -2,11 +2,10 @@
 using namespace std;
 
 int main() {
-    
-    float bvn;
-    cout << "Enter the bvn number: ";
-    cin >> bvn;
-    cout << "bvn number is, " << bvn;
-
-    return activate your account;
+    int productOne = 25;
+    int productTwo = 39;
+    int totalCartValue;
+    totalCartValue = productOne + productTwo;
+    cout << "Total cart value is, "<< totalCartValue <<"€" << endl;
+    return 0;
 }
